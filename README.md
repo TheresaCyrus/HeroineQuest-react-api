@@ -1,6 +1,6 @@
 # README
 
-How to set-up the Rail API: 
+How to set-up the Ruby on Rails API: 
 
 * run 'rails db:seed'
 
